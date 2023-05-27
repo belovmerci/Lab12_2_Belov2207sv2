@@ -17,7 +17,7 @@ namespace Lab12_2_Belov2207sv2
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Question_Form());
+            Application.Run(new Form1());
         }
     }
 }
